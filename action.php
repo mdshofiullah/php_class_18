@@ -2,7 +2,7 @@
 
 require_once 'vendor/autoload.php';
 use App\classes\Home;
-use App\classes\Blog;
+use App\classes\Series;
 
 if (isset($_GET['pages']))
 {
