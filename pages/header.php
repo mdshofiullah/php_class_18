@@ -19,6 +19,7 @@
         <ul class="navbar-nav">
             <li><a href="action.php?pages=home" class="nav-link text-white">Home</a></li>
             <li><a href="action.php?pages=series" class="nav-link text-white">Series</a></li>
+            <li><a href="action.php?pages=register" class="nav-link text-white">Registration</a></li>
 
         </ul>
 

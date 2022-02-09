@@ -9,6 +9,7 @@
                         <h4>Prime number</h4>
                     </div>
                     <div class="card-body">
+                        <h1><?php session_start(); echo $_SESSION['name']; ?></h1>
                         <form action="action.php" method="post">
 
                             <div class="form-group row">
